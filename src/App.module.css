@@ -1,0 +1,28 @@
+.wrapper {
+  margin: 25px;
+}
+
+.header {
+  display: flex;
+  align-items: center;
+}
+
+.title {
+  margin-right: 25px;
+}
+
+.mainInner {
+  display: flex;
+  flex-wrap: wrap;
+}
+
+.btn {
+  width: 40px;
+  height: 40px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+
+  border-radius: 50%;
+  cursor: pointer;
+}
